@@ -15,8 +15,10 @@
 ```javascript
 const Shaddock = {
   pronouns: "he",
-  code: [Java, Python, Shell],
+  code_frontend: [Jquery, Vue, React],
+  code_backend: [Java, Python, Shell],
   tools: [Docker, Nginx],
+  OS: [CentOS, Mac],
   architecture: ["microservices"],
   communities: {},
 }
